@@ -123,12 +123,14 @@
 ---
 
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 ---
+
 
 ### 🔐 Admin Panel Management System
 ---
-## Features
+
+### Features
 
 - JWT Authentication
 
@@ -145,6 +147,7 @@
 Repository: https://github.com/kajalengg/mern-journey
 
 ---
+
 
 ### 📝 iTask - Task Management App
 ---
