@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00C2FF&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Learning+DSA+Everyday;Open+To+Software+Engineer+Roles" />
 
-</div>
-
 ![](https://komarev.com/ghpvc/?username=kajalengg&color=blue)
+
+</div>
 
 
 ---
@@ -179,13 +179,6 @@ To secure a Software Developer role where I can contribute to real-world product
 
 ---
 
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kajalengg&theme=tokyo-night)
-
----
-
 ### 🎯 2026 Goals
 
 ✅ Master MERN Stack
@@ -233,10 +226,9 @@ To secure a Software Developer role where I can contribute to real-world product
 
 ---
 
-### 📊 GitHub Statistics
+### 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kajalengg&theme=tokyo-night)
 
 ---
 
