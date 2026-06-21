@@ -8,146 +8,243 @@
 
 </div>
 
----
+![](https://komarev.com/ghpvc/?username=kajalengg&color=blue)
 
-# 🧑‍💻 About Me
-
-🎓 Final Year B.Tech CSE Student (AKTU)
-
-💻 Passionate about Full Stack Development
-
-🚀 Building practical and scalable applications
-
-🌱 Currently learning Advanced MERN & DSA
-
-🎯 Goal: Secure an Off-Campus Software Engineer role
-
-📍 Uttar Pradesh, India 🇮🇳
 
 ---
 
-# 🛠️ Tech Stack
+### 👩‍💻 About Me
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,postman&perline=6" />
+🎓 Final Year B.Tech CSE Student
 
-</div>
+💻 Passionate about building Full Stack applications
+
+🌱 Currently improving DSA and Full Stack Development
+
+🎯 Goal: Crack an Off-Campus Software Engineer role
+
+⚡ I enjoy turning ideas into real products
+
+📍 Uttar Pradesh, India
+
 
 ---
 
-# 💡 Core Competencies
+
+### 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,vscode,postman" />
+</p>
+
+---
+
+
+### 🛠️ Core Skills
 
 ### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
 
 - React.js
 - HTML5
 - CSS3
+- JavaScript (ES6+)
+- Vite
+- React Router
 - Tailwind CSS
 - Responsive UI
 
+---
+
 ### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 - Node.js
 - Express.js
 - REST APIs
+- Authentication & Autherization
+
+---
 
 ### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+
 
 - MongoDB
 - MongoDB Atlas
 - Mongoose
 
-### Security
-
-- JWT Authentication
-- Authorization
-- Bcrypt Password Hashing
-- Input Validation (Zod)
+---
 
 ### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+
 
 - Git
 - GitHub
 - Postman
-- VS Code
+- VSCode
 
 ---
 
-# 🚀 Featured Projects
 
-## 🔐 Admin Panel Management System
-
-A secure full-stack admin management application.
-
-### Features
+### Security
 
 - JWT Authentication
-- Role-Based Access Control
-- Password Hashing
-- REST APIs
-- MongoDB Atlas
-- Input Validation
+- Autherization
+- Bcrypt Password Hasing
+- Input validation(zod)
+
 
 ---
 
-## 📝 iTask – Productivity Dashboard
+### Concepts
+- JWT Authentication
+- CRUD Operations
+- Input Validation
+- Password Hashing (Bcrypt)
+- Environment Variables
+- API Testing
 
-A responsive task management application.
+---
 
-### Features
 
+### 🚀 Featured Projects
+---
+### 🔐 Admin Panel Management System
+---
+## Features
+
+- JWT Authentication
+
+- Role-Based Authorization
+
+- Password Hashing
+
+- Input Validation
+
+-- Secure REST APIs
+
+- MongoDB Atlas Integration
+
+Repository: https://github.com/kajalengg/mern-journey
+
+---
+
+### 📝 iTask - Task Management App
+---
+## Features
 - Create Tasks
 - Update Tasks
 - Delete Tasks
 - Local Storage
+- Tailwind CSS
 - React Hooks
-- Responsive UI
+- UUID
+- Responsive Design
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
+### 📈 Current Learning
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kajalengg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kajalengg&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+- Advanced React Patterns
+- Backend Architecture
+- API Security
+- System Design Fundamentals
+- Deployment & DevOps Basics
+- Data Structures & Algorithms
 
 ---
 
-# 🎯 2026 Goals
+### 🎯 Career Goal
 
-- ✅ Solve 150+ DSA Problems
-- ✅ Build 3 Production-Level Projects
-- ✅ Improve Backend Development
-- ✅ Strengthen Problem Solving
-- ✅ Crack Off-Campus SDE Roles
+To secure a Software Developer role where I can contribute to real-world products, grow as an engineer, and build scalable web applications
+
 
 ---
 
-# 📬 Connect With Me
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kajalengg&theme=tokyo-night)
+
+---
+
+### 🎯 2026 Goals
+
+✅ Master MERN Stack
+
+✅ Build Production-Level Projects
+
+✅ Strengthen DSA
+
+✅ Learn System Design
+
+✅ Land a Software Development Role
+
+✅  Learn TypeScript
+
+✅ learn nextjs
+
+
+---
+
+### 📫 Connect With Me
 
 📧 Email: kajal547yadav@gmail.com
 
-🔗 LinkedIn: Add your LinkedIn URL
-
 💻 GitHub: https://github.com/kajalengg
+
+🔗 LinkedIn: https://www.linkedin.com/in/kajal-yadav-4314b9362
 
 ---
 
-# 💭 Quote
 
-> "Consistency compounds. Small efforts every day create extraordinary results."
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalengg&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalengg&theme=tokyonight" />
+</p>
+
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight)
+
+
+---
+
+## 💡 Favorite Quote
+
+"Talk is cheap. Show me the code."
+
+— Linus Torvalds
+
+---
+
+### Thanks for visiting 🚀
