@@ -130,12 +130,12 @@ https://github.com/kajalengg/mern-journey
 
 ### 📈 Current Learning
 
--Advanced React Patterns
--Backend Architecture
--API Security
--System Design Fundamentals
--Deployment & DevOps Basics
--Data Structures & Algorithms
+- Advanced React Patterns
+- Backend Architecture
+- API Security
+- System Design Fundamentals
+- Deployment & DevOps Basics
+- Data Structures & Algorithms
 
 ---
 
