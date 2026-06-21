@@ -66,7 +66,7 @@
 - Mongoose
 
 
-  ### Tools
+### Tools
 - Git
 - GitHub
 - Postman
@@ -92,6 +92,7 @@
 
 ---
 
+
 # 🚀 Featured Projects
 
 ## 🔐 Admin Panel Management System
@@ -110,6 +111,7 @@ https://github.com/kajalengg/mern-journey
 
 ---
 
+
 ## 📝 iTask - Task Management App
 
 ### Features
@@ -125,14 +127,15 @@ https://github.com/kajalengg/mern-journey
 
 ---
 
+
 ### 📈 Current Learning
 
-Advanced React Patterns
-Backend Architecture
-API Security
-System Design Fundamentals
-Deployment & DevOps Basics
-Data Structures & Algorithms
+-Advanced React Patterns
+-Backend Architecture
+-API Security
+-System Design Fundamentals
+-Deployment & DevOps Basics
+-Data Structures & Algorithms
 
 ---
 
@@ -145,10 +148,6 @@ To secure a Software Developer role where I can contribute to real-world product
 ---
 
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalengg&layout=compact&theme=tokyonight)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -183,6 +182,7 @@ To secure a Software Developer role where I can contribute to real-world product
 - Get Software Developer Internship / Job
 
 ---
+
 
 ## 📫 Connect With Me
 
