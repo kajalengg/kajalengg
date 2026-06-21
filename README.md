@@ -2,9 +2,13 @@
 
 # Hi 👋, I'm Kajal Yadav
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kajal+Yadav;MERN+Stack+Developer;React+Developer;Future+Software+Engineer)](https://git.io/typing-svg)
+
 ### 🚀 Final Year B.Tech CSE Student | Full Stack Developer | Aspiring Software Developer Engineer(SDE)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+To+Software+Engineer+Roles;Building+Real+World+Projects;Learning+Every+Day+🚀" />
+
+![](https://komarev.com/ghpvc/?username=kajalengg&color=blue)
 
 </div>
 
@@ -40,8 +44,6 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=javascript(ES6+),html5,css3,react,vite,nodejs,react router&perline=6" />
-
 - React.js
 - HTML5
 - CSS3
@@ -53,8 +55,6 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=Node.js,Express.js,REST APIs,Authentication,Autherization&perline=6" />
-
 - Node.js
 - Express.js
 - REST APIs
@@ -63,12 +63,17 @@
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=MongoDB,MongoDB Atlas,Mongoose&perline=6" />
-
 - MongoDB
 - MongoDB Atlas
 - Mongoose
-  
+
+
+  ### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+
 
 ### Security
 
@@ -102,6 +107,9 @@
 - Secure REST APIs
 - MongoDB Atlas Integration
 
+  Repository:
+https://github.com/kajalengg/mern-journey
+
 ---
 
 ## 📝 iTask - Task Management App
@@ -120,6 +128,29 @@
 ---
 
 
+### 📈 Current Learning
+
+Advanced React Patterns
+Backend Architecture
+API Security
+System Design Fundamentals
+Deployment & DevOps Basics
+Data Structures & Algorithms
+
+---
+
+
+### 🎯 Career Goal
+
+To secure a Software Developer role where I can contribute to real-world products, grow as an engineer, and build scalable web applications.
+
+
+---
+
+)
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kajalengg&theme=tokyonight)
 
 
 # 📈 GitHub Analytics
@@ -134,13 +165,10 @@
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalengg&layout=compact&theme=tokyonight)
 
-<img src="https://github-profile-trophy.vercel.app/?username=kajalengg&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
@@ -156,13 +184,36 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalengg&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalengg&theme=tokyonight" />
+</p>
+
+---
+
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kajalengg&theme=tokyo-night)
+
+---
+
 ## 🎯 2026 Goals
 
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 3 Production-Level Projects
-- ✅ Contribute Consistently
-- ✅ Strengthen System Design Basics
-- ✅ Crack Off-Campus SDE Roles
+- Build 5+ Production Level Projects
+- Master MERN Stack
+- Learn TypeScript
+- Contribute to Open Source
+- Get Software Developer Internship / Job
 
 ---
 
@@ -178,4 +229,4 @@
 
 ## 💡 Motto
 
-> "Small improvements every day lead to big results."
+> ⭐ Always learning, building, and improving
