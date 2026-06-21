@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Kajal Yadav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Kajal+Yadav;MERN+Stack+Developer;React+Developer;Future+Software+Engineer)](https://git.io/typing-svg)
-
 ### 🚀 Final Year B.Tech CSE Student | Full Stack Developer | Aspiring Software Developer Engineer(SDE)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+To+Software+Engineer+Roles;Building+Real+World+Projects;Learning+Every+Day+🚀" />
@@ -127,7 +125,6 @@ https://github.com/kajalengg/mern-journey
 
 ---
 
-
 ### 📈 Current Learning
 
 Advanced React Patterns
@@ -147,40 +144,9 @@ To secure a Software Developer role where I can contribute to real-world product
 
 ---
 
-)
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kajalengg&theme=tokyonight)
-
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kajalengg&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalengg&layout=compact&theme=tokyonight)
-
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kajalengg&show_icons=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kajalengg"/>
-
-</div>
 
 ---
 
@@ -207,6 +173,7 @@ To secure a Software Developer role where I can contribute to real-world product
 
 ---
 
+
 ## 🎯 2026 Goals
 
 - Build 5+ Production Level Projects
@@ -230,3 +197,7 @@ To secure a Software Developer role where I can contribute to real-world product
 ## 💡 Motto
 
 > ⭐ Always learning, building, and improving
+
+---
+
+### Thanks for visiting 🚀
